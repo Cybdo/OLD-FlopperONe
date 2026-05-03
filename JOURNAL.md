@@ -9,13 +9,13 @@ created_at: "2026-03-20"
 
 Spent the afternoon going through the official Flipper Zero schematics on GitHub to understand how the RF, NFC, and IR subsystems are wired together. Decided to use the STM32WB55 as the main MCU since it handles BLE and has enough GPIO for all the peripherals. Started a rough block diagram in KiCad to map out power rails and communication buses.
 
-![block diagram](images/block-diagram.png)
+
 
 **Total time spent: 3 hours**
 
 # March 22: Schematic capture in KiCad
 
-Got the full schematic roughed out. Wired up the CC1101 to the STM32 over SPI, connected the PN532 NFC module over I2C, and added the IR transmitter and receiver pair on dedicated GPIO pins. The TP4056 charger circuit was straightforward. Still need to double-check the antenna matching network for the CC1101.
+Got 
 
 ![schematic](images/schematic-v1.png)
 
