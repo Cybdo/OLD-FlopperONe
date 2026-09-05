@@ -29,7 +29,7 @@ Moved into the PCB editor and started placing components. Kept the RF section is
 
 **Total time spent: 5 hours**
 
-# March 26: Routing finished, sent to fab
+# March 26: Routing finished, sent to fab wiht a second title
 
 Finished routing all signal lines and ran the DRC. Had a few clearance violations around the USB-C connector footprint that took a while to sort out. Exported Gerbers and placed the order through JLCPCB. Also put in a parts order on LCSC for all the SMD components. Estimated delivery is about 10 days.
 
@@ -37,7 +37,7 @@ Finished routing all signal lines and ran the DRC. Had a few clearance violation
 
 **Total time spent: 3 hours**
 
-# March 28: Enclosure design in CAD wiht a new title
+# March 28: Enclosure design in CAD wiht a new title again
 
 While waiting for the PCBs, started modelling the enclosure in Fusion 360. Designed around the PCB outline with cutouts for the OLED, USB-C port, and buttons. Printed a test shell in PLA to check fitment, a few tolerances were off around the display window so adjusted and queued another print overnight.
 
