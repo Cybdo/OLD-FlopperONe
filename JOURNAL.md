@@ -37,7 +37,7 @@ Finished routing all signal lines and ran the DRC. Had a few clearance violation
 
 **Total time spent: 3 hours**
 
-# March 28: Enclosure design in CAD
+# March 28: Enclosure design in CAD wiht a new title
 
 While waiting for the PCBs, started modelling the enclosure in Fusion 360. Designed around the PCB outline with cutouts for the OLED, USB-C port, and buttons. Printed a test shell in PLA to check fitment, a few tolerances were off around the display window so adjusted and queued another print overnight.
 
