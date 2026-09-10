@@ -5,7 +5,7 @@ description: "A custom open-source multi-tool PCB with sub-GHz RF, NFC, IR, and 
 created_at: "2026-03-20"
 ---
 
-# March 20: Research and schematic planning
+# March 20: Research and schematic planning a
 
 Spent the afternoon going through the official Flipper Zero schematics on GitHub to understand how the RF, NFC, and IR subsystems are wired together. Decided to use the STM32WB55 as the main MCU since it handles BLE and has enough GPIO for all the peripherals. Started a rough block diagram in KiCad to map out power rails and communication buses.
 
